@@ -1,0 +1,6 @@
+block,sbd,total_score,scores,toan,ngu_van,ngoai_ngu,vat_li,hoa_hoc,sinh_hoc,lich_su,dia_li,gdcd,ma_ngoai_ngu,total_score_B,total_score_C,total_score_D01,total_score_D07
+B,3017219,26.65,"{'toan': 8.4, 'hoa_hoc': 9.5, 'sinh_hoc': 8.75}",8.4,9.0,6.8,1.0,9.5,8.75,,,,N1,26.65,,,
+C,1079508,25.75,"{'ngu_van': 8.0, 'lich_su': 8.75, 'dia_li': 9.0}",4.4,8.0,1.0,,,,8.75,9.0,7.75,N1,,25.75,,
+C,40020674,27.5,"{'ngu_van': 8.75, 'lich_su': 9.25, 'dia_li': 9.5}",8.0,8.75,0.0,,,,9.25,9.5,9.75,N1,,27.5,,
+D01,3016151,25.450000000000003,"{'toan': 8.4, 'ngu_van': 7.25, 'ngoai_ngu': 9.8}",8.4,7.25,9.8,1.0,7.75,8.25,,,,N1,,,25.450000000000003,
+D07,3016151,25.95,"{'toan': 8.4, 'hoa_hoc': 7.75, 'ngoai_ngu': 9.8}",8.4,7.25,9.8,1.0,7.75,8.25,,,,N1,,,,25.95
